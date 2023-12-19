@@ -1,0 +1,40 @@
+user id,item id,Actual Item price,Category,Item Delivery status,Item Price,RR,Buyer,Seller,Product,3PL,Output
+419224543,9471335,2855.0,Fashion,Delivered,<4000,Defective,8.0,6.0,5.0,6.7,Skip QCC
+244418678,2793923,276.0,Fashion,Delivered,<4000,Defective,6.0,9.0,7.0,5.0,Digital QCC
+757992492,5307721,1199.0,Fashion,Delivered,<4000,Defective,4.5,9.0,7.0,8.7,Standard Return
+753278589,2437066,1579.0,Fashion,Delivered,<4000,Defective,4.5,5.0,8.0,8.7,Digital QCC
+404930840,2175067,1396.0,Fashion,Delivered,<4000,Defective,8.5,4.0,5.0,9.0,Skip QCC
+879186243,3590119,,Fashion,Not delivered,no need,Item not received,9.0,6.0,7.0,5.0,Digital QCC
+729412847,7465442,5208.0,Fashion,Delivered,>4000,No need,9.0,6.0,7.0,5.0,Standard Return
+706723843,6444696,,Groceries,Delivered,,Expired,9.5,5.0,4.0,7.5,Skip QCC
+604924394,4340520,2493.0,Groceries,Delivered,<4000,Expired,8.0,6.0,5.0,6.7,Digital QCC
+517728204,4130827,2537.0,Groceries,Delivered,<4000,Expired,6.0,9.0,7.0,5.0,Digital QCC
+898283750,6447877,3662.0,Groceries,Delivered,<4000,Expired,4.5,9.0,7.0,8.7,Digital QCC
+709556182,7879157,2335.0,Groceries,Delivered,<4000,Expired,4.5,5.0,8.0,8.7,Digital QCC
+144413950,6537928,1305.0,Groceries,Delivered,<4000,Expired,8.5,4.0,5.0,9.0,Digital QCC
+341351357,3529409,4637.0,Groceries,Delivered,>4000,Expired,9.0,6.0,7.0,5.0,Digital QCC
+259010501,3712944,4770.0,Groceries,Delivered,>4000,Damaged,9.5,5.0,4.0,7.5,Skip QCC
+975694807,1112931,,Groceries,Delivered,,Damaged,8.0,6.0,5.0,6.7,Digital QCC
+950086443,2652088,3588.0,Groceries,Delivered,<4000,Damaged,6.0,9.0,7.0,5.0,Digital QCC
+530471200,1897200,95.0,Groceries,Delivered,<4000,Damaged,4.5,9.0,7.0,8.7,Digital QCC
+527645963,3663961,3299.0,Groceries,Delivered,<4000,Damaged,4.5,5.0,8.0,8.7,Digital QCC
+827922280,8033155,1900.0,Groceries,Delivered,<4000,Damaged,8.5,4.0,5.0,9.0,Digital QCC
+539425236,3940775,10000.0,Groceries,Delivered,>4000,Damaged,9.0,6.0,7.0,5.0,Digital QCC
+491443877,3046755,6344.0,Groceries,Not delivered,>4000,Item not received,9.0,6.0,7.0,5.0,
+741875581,5295794,,Mobiles & Tablets,Delivered,,Damaged,,,,,
+764207004,1284446,9448.0,Mobiles & Tablets,Delivered,>4000,Damaged,9.5,5.0,4.0,7.5,skip QCC
+607347567,4626013,,Mobiles & Tablets,Delivered,,Damaged,8.0,6.0,5.0,6.7,Digital QCC
+261316328,7240596,3092.0,Mobiles & Tablets,Delivered,<4000,Damaged,6.0,9.0,7.0,5.0,Digital QCC
+797901826,6452661,608.0,Mobiles & Tablets,Delivered,<4000,Damaged,4.5,9.0,7.0,8.7,Standard Return
+135714587,7385263,3913.0,Mobiles & Tablets,Delivered,<4000,Damaged,4.5,5.0,8.0,8.7,Standard Return
+596324563,4659867,1435.0,Mobiles & Tablets,Delivered,<4000,Damaged,8.5,4.0,5.0,9.0,Digital QCC
+816604633,4681621,9368.0,Mobiles & Tablets,Delivered,>4000,Damaged,9.0,6.0,7.0,5.0,Standard Return
+631802775,2933735,4180.0,Mobiles & Tablets,Delivered,>4000,No need,9.0,6.0,7.0,5.0,
+224773173,8433878,2372.0,Mobiles & Tablets,Delivered,<4000,Defective,9.5,5.0,4.0,7.5,Skip QCC
+520942131,4534238,3053.0,Mobiles & Tablets,Delivered,<4000,No need,8.0,6.0,5.0,6.7,Digital QCC
+593634734,5428050,3902.0,Mobiles & Tablets,Delivered,<4000,No need,6.0,9.0,7.0,5.0,Digital QCC
+346183060,3020435,3855.0,Mobiles & Tablets,Delivered,<4000,No need,4.5,9.0,7.0,8.7,Standard Return
+793193653,6331037,3937.0,Mobiles & Tablets,Delivered,<4000,No need,4.5,5.0,8.0,8.7,Digital QCC
+396785437,4622293,3333.0,Mobiles & Tablets,Delivered,<4000,No need,8.5,4.0,5.0,9.0,Digital QCC
+701177667,8073993,8845.0,Mobiles & Tablets,Delivered,>4000,No need,9.0,6.0,7.0,5.0,Standard Return
+775097123,9735218,,Mobiles & Tablets,Not delivered,no need,Item not received,9.0,6.0,7.0,5.0,digital QCC
